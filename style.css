@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+    --classic-white-: #fff;
+    --classic-black-: black;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+.container{
+    padding: 0 200px;
+    margin-top: 40px;
+}
+
+.container__item{
+    width: 400px;
+    height: 320px;
+    padding-top: 60px;
+    /* background-color: white; */
+}
+
+.container__pug {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-image: url(https://ducfilan.gallerycdn.vsassets.io/extensions/ducfilan/pug-formatter/0.6.0/1566356208112/Microsoft.VisualStudio.Services.Icons.Default);
+    animation-name: Pug-Spin;
+    animation-duration: 3s;
+    cursor: pointer;
+}
+.container__pug:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+@keyframes Pug-Spin {
+    from {
+      transform: rotate(230deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+.container__title{
+    /* cursor: default; */
+    user-select: none;
+    padding-top: 40px;
+    color: var(--classic-white-);
+}
+
+.container__info{
+    padding: 0 200px;
+    padding-top: 40px;
+}
+
+/* Decaration */
+*::selection{
+    color: black;
+    background-color: lime;
+}
+.container__info{
+    padding: 0 400px;
+    color: var(--classic-white-);
+}
+
+
+
+.footer__OwnerSite {
+    text-decoration: none;
+    color: var(--classic-white-);
+    font-size: 20px;
+    border-bottom: 2px solid var(--classic-white-);
+}
+
+.footer__OwnerSite:hover{
+    border: none;
+}
+
+.container_hyper{
+    text-decoration: none;
+    border-bottom: 2px solid var(--classic-white-);
+    color: var(--classic-white-);
+    font-size: 20px;
+}
+
+.container_hyper:hover{
+    border: none;
+}
+
+.fa-github{
+    margin-left: 10px;
+    color: var(--classic-black-);
+    font-size: 25px;
+}
