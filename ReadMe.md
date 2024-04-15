@@ -11,6 +11,11 @@
 
 - ### and type this command in your terminal and index.pug file will be compiled
 
+### Comand Compiler
+```bash
+npm run dev
+```
+
 ```bash
 pug -w ./ -o ./html -P
 ```

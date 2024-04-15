@@ -1,0 +1,12 @@
+{
+  "name": "pug-package",
+  "version": "2.0.0",
+  "description": "PUG Package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "pug -w ./ -o ./html -P"
+  },
+  "author": "Jasur",
+  "license": "MIT"
+}
