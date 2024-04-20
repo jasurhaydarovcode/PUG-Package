@@ -1,4 +1,5 @@
-# <img src="https://camo.githubusercontent.com/09c2a1a99598f0db12c8f35ba1cccbe745f0ec12f1db1cd0e7b7cf8e9efdb666/68747470733a2f2f7075676a732e6f72672f696d616765732f66617669636f6e2d33327833322e706e67" width="27"> PUG 
+<h1 align="center"><img src="https://raw.githubusercontent.com/ha7darov/ha7darov/main/FremWork%20%26%20Library/Pug-Dark.svg" width="90"></h1>
+<h1 align="center"> PUG </h1>
 
 ---
 
