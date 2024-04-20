@@ -13,9 +13,9 @@
 
 ### Comand Compiler
 ```bash
-npm run dev
+npm run pug
 ```
-
+### or
 ```bash
 pug -w ./ -o ./html -P
 ```
