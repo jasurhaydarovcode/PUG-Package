@@ -1,12 +1,12 @@
 {
   "name": "pug-package",
-  "version": "2.2.0",
-  "description": "PUG Package ",
+  "version": "3.0.0",
+  "description": "PUG Package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pug": "pug -w ./ -o ./html -P"
+    "pug": "pug -w ./ -o ./src -P"
   },
-  "author": "Jasur Algorithm Group",
+  "author": "Jasur 'Algorithm Group'",
   "license": "MIT"
 }
