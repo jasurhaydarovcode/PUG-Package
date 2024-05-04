@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ha7darov/ha7darov/main/FremWork%20%26%20Library/Pug-Dark.svg" width="90"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/jasurhaydarovcode/jasurhaydarovcode/main/FremWork%20%26%20Library/Pug-Dark.svg" width="90"></h1>
 <h1 align="center"> PUG APP </h1>
 
 ---
